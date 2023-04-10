@@ -1,0 +1,15 @@
+C:\Users\33984578865\Desktop\Interview\bin\Debug\net7.0\Interview.exe
+C:\Users\33984578865\Desktop\Interview\bin\Debug\net7.0\Interview.deps.json
+C:\Users\33984578865\Desktop\Interview\bin\Debug\net7.0\Interview.runtimeconfig.json
+C:\Users\33984578865\Desktop\Interview\bin\Debug\net7.0\Interview.dll
+C:\Users\33984578865\Desktop\Interview\bin\Debug\net7.0\Interview.pdb
+C:\Users\33984578865\Desktop\Interview\obj\Debug\net7.0\Interview.csproj.AssemblyReference.cache
+C:\Users\33984578865\Desktop\Interview\obj\Debug\net7.0\Interview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33984578865\Desktop\Interview\obj\Debug\net7.0\Interview.AssemblyInfoInputs.cache
+C:\Users\33984578865\Desktop\Interview\obj\Debug\net7.0\Interview.AssemblyInfo.cs
+C:\Users\33984578865\Desktop\Interview\obj\Debug\net7.0\Interview.csproj.CoreCompileInputs.cache
+C:\Users\33984578865\Desktop\Interview\obj\Debug\net7.0\Interview.dll
+C:\Users\33984578865\Desktop\Interview\obj\Debug\net7.0\refint\Interview.dll
+C:\Users\33984578865\Desktop\Interview\obj\Debug\net7.0\Interview.pdb
+C:\Users\33984578865\Desktop\Interview\obj\Debug\net7.0\Interview.genruntimeconfig.cache
+C:\Users\33984578865\Desktop\Interview\obj\Debug\net7.0\ref\Interview.dll
